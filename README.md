@@ -1,6 +1,10 @@
 # CourseManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+## Using the server files
+
+You have to open the folder where the server files are located and use the `npm install` command to install some depencies first.
+After, you can use the `node server.js` to run your server.
 
 ## Development server
 
